@@ -55,5 +55,5 @@
 # Enable audio (loads snd_bcm2835)
 dtparam=audio=on
 
-dtoverlay=dwc2
+#dtoverlay=dwc2
 

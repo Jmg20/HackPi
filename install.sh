@@ -15,7 +15,7 @@ sudo apt-get update
 sudo apt-get dist-upgrade -y
 sudo apt-get install -y isc-dhcp-server dsniff screen nodejs bridge-utils git
 sudo git clone https://github.com/samyk/poisontap ~/poisontap
-sudo git clone https://github.com/lgandx/Responder ~/Responder
+#sudo git clone https://github.com/lgandx/Responder ~/Responder
 
 printf "\nInstalling..."
 printf "\nBackup files? [y/n] "
